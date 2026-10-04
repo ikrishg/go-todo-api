@@ -7,7 +7,7 @@
   <p>Supports retrieval, creation, modification and deletion of Todos</p>
   <p>
     <a href="https://go.postman.co/collections/30796221-e1bec2da-b843-4502-8057-c2a3cb46327c"><img src="https://img.shields.io/badge/View%20Postman%20Collection-2965F1?style=for-the-badge" alt="View Postman Collection" /></a>
-    <a href="https://hub.docker.com/r/ikrishg/go-todo-api"><img src="https://img.shields.io/badge/View%20On%20Dockerhub-2965F1?style=for-the-badge" alt="View On Dockerhub" /></a>
+    <a href="https://hub.docker.com/r/xkrishguptaa/go-todo-api"><img src="https://img.shields.io/badge/View%20On%20Dockerhub-2965F1?style=for-the-badge" alt="View On Dockerhub" /></a>
   </p>
 </div>
 
@@ -44,7 +44,7 @@ Make sure that the MongoDB database is running and the connection string is corr
 The easiest way to get started is to use Docker. You can pull the image from Dockerhub and run it using the following commands:
 
 ```bash
-docker run -p 8080:8080 --env-file .env ikrishg/go-todo-api
+docker run -p 8080:8080 --env-file .env xkrishguptaa/go-todo-api
 ```
 
 ### 🛠️ Building From Source
