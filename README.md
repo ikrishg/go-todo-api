@@ -1,7 +1,7 @@
-> **NOTICE**: This `learning` project has been completed ✅ So I'm saying bye to it and archiving it! You can find my future projects on [GitHub](https://github.com/xkrishguptaa)
+> **NOTICE**: This learning project is **finished** ✅ It is no longer hosted online. The code remains here for reference. Future work is on [GitHub @ikrishg](https://github.com/ikrishg).
 
 <div align="center">
-  <img src="https://github.com/xkrishguptaa/go-todo-api/raw/main/assets/logo.png" height="100px" width="100px" />
+  <img src="https://github.com/ikrishg/go-todo-api/raw/main/assets/logo.png" height="100px" width="100px" />
   <br />
   <h1>Go Todo API</h1>
   <p>Supports retrieval, creation, modification and deletion of Todos</p>
@@ -24,11 +24,9 @@ It is written in Go and uses the [Gin](https://github.com/gin-gonic/gin) framewo
 - [MongoDB](https://www.mongodb.com/)
 - [Docker](https://www.docker.com/)
 
-## 🌐 Check out Deployed
-
-It is deployed at [go-todo-api-sa9e.onrender.com](https://go-todo-api-sa9e.onrender.com)
-
 ## 🚀 Getting Started
+
+There is no public deployment; run the API locally or with Docker.
 
 You need to create a `.env` file in the root directory of the project and add the following environment variables:
 
